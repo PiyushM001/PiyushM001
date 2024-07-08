@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Piyush Mehta, a BTech student at IIT Roorkee with a passion for Full Stack Web Development and App Development. I enjoy building innovative and user-friendly applications that solve real-world problems.<br><br>Skills<br>Full Stack Web Development<br>App Development<br>Contact<br>Phone: 9353403045<br>Email: piyush_m@ce.iitr.ac.in<br>Feel free to connect with me for collaboration or just to chat about tech!
+Hi, I'm Piyush Mehta, a BTech student at IIT Roorkee with a passion for Full Stack Web Development and App Development. I enjoy building innovative and user-friendly applications that solve real-world problems.<br><br>Skills<br>Full Stack Web Development<br>App Development<br>Contact<br>Phone: 9352403045<br>Email: piyush_m@ce.iitr.ac.in<br>Feel free to connect with me for collaboration or just to chat about tech!
 
 
 ## 🌐 Socials:
